@@ -4,4 +4,4 @@ var Appointments = React.createClass({
       <h1>Calender React</h1>
     )
   }
-})
+});
